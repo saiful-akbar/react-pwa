@@ -3,7 +3,7 @@ Kerangka untuk project aplikasi create-react-app dengan PWA
 
 #### Clone Repository
 ```bash
-git clone https://github.com/saiful-akbar/react-pwa
+git clone https://github.com/saiful-akbar/react-pwa.git
 ```
 #### Instal Project Baru
 ```bash
