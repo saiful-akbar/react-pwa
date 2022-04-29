@@ -1,5 +1,5 @@
 # React PWA
-Kerangka untuk project aplikasi create-react-app dengan PWA
+Kerangka untuk project create-react-app dengan PWA
 
 ## Clone Repository
 ```bash
