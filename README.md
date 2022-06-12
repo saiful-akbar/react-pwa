@@ -15,7 +15,7 @@ npx create-react-app project-name --template cra-template-pwa
 npx create-react-app my-app --template cra-template-pwa-typescript
 ```
 
-## Script file `.htaccess` untuk deploy ke cpanel
+## Script `.htaccess` untuk deploy ke cpanel
 ```batch
 <ifModule mod_rewrite.c>
 
